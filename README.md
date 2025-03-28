@@ -1,18 +1,15 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Layouts React Native App 
+# Getting Started a new App in React Native
 
-A new React native project.
+# Layouts App 12
 
-## Getting Started
+## Development
+1. Clonar proyecto
+2. Instalar dependencias ```npm install```
+3. Ejecutar el proyecto ```npx react-native run-android```
 
-This project is a starting point for a iOS application.
-
-This application contains the following knowledge:
-  
-- Layouts
-
-## The aplication look like this :
+The aplication look like this :
 
 ![WhatsApp Image 2025-03-11 at 14 21 49 (1)](https://github.com/user-attachments/assets/5567c899-f818-494b-bbae-783fa0634f9f)
 
